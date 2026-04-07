@@ -1,8 +1,6 @@
 # Option Valuation Using the Fast Fourier Transform
 
-A Python implementation and DSP analysis of the Carr-Madan (1999) FFT-based European call option pricing method, developed as part of a research project at the Department of Electronics and Communication Engineering, NIT Karnataka (Surathkal).
 
----
 
 ## Overview
 
