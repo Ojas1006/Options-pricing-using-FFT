@@ -209,6 +209,3 @@ The Carr-Madan method maps cleanly onto standard DSP concepts:
 
 ---
 
-## Acknowledgements
-
-Developed as part of a research project in the Department of Electronics and Communication Engineering, National Institute of Technology Karnataka (NITK Surathkal).
